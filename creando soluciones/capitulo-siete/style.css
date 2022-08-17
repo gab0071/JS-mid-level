@@ -1,0 +1,19 @@
+body{
+    color: #222;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    background-color: #000;
+    padding: 20px;
+}
+
+h2 {
+    color: pink;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: #ccc;
+
+}
